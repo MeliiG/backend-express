@@ -24,7 +24,7 @@ let infoCursos ={
         },
     ],
 
-    Matematicas:[
+    matematicas:[
         {
             id: 1,
             titulo:'Conceptos Calculo',
