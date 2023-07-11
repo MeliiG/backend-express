@@ -4,14 +4,14 @@ let infoCursos ={
         {
             id: 1,
             titulo:'conceptos Phyton',
-            lenguaje: 'Phyton',
+            lenguaje: 'python',
             vistas: '15000',
             nivel: 'basico'
         },
         {
             id: 2,
             titulo:'intermedio Phyton',
-            lenguaje: 'Phyton',
+            lenguaje: 'python',
             vistas: '13500',
             nivel: 'intermedio'
         },
@@ -28,7 +28,7 @@ let infoCursos ={
         {
             id: 1,
             titulo:'Conceptos Calculo',
-            tema: 'Calculo',
+            tema: 'calculo',
             vistas: '12427',
             nivel: 'basico'
         },
